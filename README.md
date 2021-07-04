@@ -9,7 +9,9 @@ http://www.cvlibs.net/download.php?file=data_object_image_2.zip
 http://www.cvlibs.net/download.php?file=data_object_label_2.zip
 
 
-Detection Samples:
+***Detection Samples:***
+
+
 ![pedestrian](https://user-images.githubusercontent.com/42544569/124387317-be67e200-dce6-11eb-83ad-ea88c0b0492e.png)
 
 
